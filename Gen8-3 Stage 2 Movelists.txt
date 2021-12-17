@@ -2682,7 +2682,7 @@ Mud-Slap
 Spark
 Sticky Web
 String Shot
-visegrip
+Vice Grip
 X-Scissor
 
 	Charmander:
@@ -3084,7 +3084,7 @@ Muddy Water
 Smack Down
 Splash
 Swords Dance
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Water Sport
@@ -3105,7 +3105,7 @@ Muddy Water
 Smack Down
 Splash
 Swords Dance
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Water Sport
@@ -3481,7 +3481,7 @@ Switcheroo
 Swords Dance
 Taunt
 Trump Card
-visegrip
+Vice Grip
 Water Gun
 
 	Corsola:
@@ -3729,7 +3729,7 @@ Razor Shell
 Swift
 Swords Dance
 Taunt
-visegrip
+Vice Grip
 Water Gun
 
 	Cresselia:
@@ -5301,7 +5301,7 @@ Sand Attack
 Screech
 Struggle Bug
 Thunder Fang
-visegrip
+Vice Grip
 X-Scissor
 
 	Dusclops:
@@ -8149,7 +8149,7 @@ Mud-Slap
 Spark
 Sticky Web
 String Shot
-visegrip
+Vice Grip
 X-Scissor
 
 	Grumpig:
@@ -9755,7 +9755,7 @@ Razor Shell
 Slam
 Stomp
 Swords Dance
-visegrip
+Vice Grip
 Water Gun
 Wide Guard
 
@@ -9828,7 +9828,7 @@ Mirror Shot
 Screech
 Shift Gear
 Thunder Shock
-visegrip
+Vice Grip
 Zap Cannon
 
 	Klefki:
@@ -9870,7 +9870,7 @@ Mirror Shot
 Screech
 Shift Gear
 Thunder Shock
-visegrip
+Vice Grip
 Zap Cannon
 
 	Klinklang:
@@ -9890,7 +9890,7 @@ Mirror Shot
 Screech
 Shift Gear
 Thunder Shock
-visegrip
+Vice Grip
 Zap Cannon
 
 	Koffing:
@@ -10018,7 +10018,7 @@ Slash
 Stomp
 Swords Dance
 Tickle
-visegrip
+Vice Grip
 Water Gun
 
 	Kricketot:
@@ -12020,7 +12020,7 @@ Swords Dance
 Taunt
 Thunder Fang
 Tickle
-visegrip
+Vice Grip
 
 	Medicham:
 Acupressure
@@ -15314,7 +15314,7 @@ Superpower
 Swords Dance
 Thrash
 Vise Grip
-visegrip
+Vice Grip
 Vital Throw
 X-Scissor
 
@@ -16447,7 +16447,7 @@ Hyper Beam
 Laser Focus
 Thrash
 Twister
-visegrip
+Vice Grip
 
 	Regieleki:
 Ancient Power
@@ -22189,7 +22189,7 @@ Spark
 Sticky Web
 String Shot
 Thunderbolt
-visegrip
+Vice Grip
 X-Scissor
 Zap Cannon
 
@@ -22207,7 +22207,7 @@ Mud-Slap
 Spark
 String Shot
 Thunderbolt
-visegrip
+Vice Grip
 Zap Cannon
 
 	Vileplume:
