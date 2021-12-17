@@ -8044,7 +8044,7 @@ Swagger
 Thunder Wave
 Thunderbolt
 Toxic
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 X-Scissor
@@ -9214,7 +9214,7 @@ Swords Dance
 Toxic
 U-turn
 Venoshock
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Water Sport
@@ -9273,7 +9273,7 @@ Swords Dance
 Toxic
 U-turn
 Venoshock
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Water Sport
@@ -10522,7 +10522,7 @@ Swords Dance
 Taunt
 Toxic
 Trump Card
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Waterfall
@@ -11209,7 +11209,7 @@ Swift
 Swords Dance
 Taunt
 Toxic
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Waterfall
@@ -15831,7 +15831,7 @@ Swagger
 Thunder Fang
 Thunder Wave
 Toxic
-visegrip
+Vice Grip
 X-Scissor
 
 	Dusclops:
@@ -24107,7 +24107,7 @@ Swagger
 Thunder Wave
 Thunderbolt
 Toxic
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 X-Scissor
@@ -29055,7 +29055,7 @@ Swords Dance
 Take Down
 Thief
 Toxic
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Whirlpool
@@ -29276,7 +29276,7 @@ Thunder Wave
 Thunderbolt
 Toxic
 Uproar
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 Zap Cannon
@@ -29379,7 +29379,7 @@ Thunder Wave
 Thunderbolt
 Toxic
 Uproar
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 Zap Cannon
@@ -29431,7 +29431,7 @@ Thunderbolt
 Toxic
 Trick Room
 Uproar
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 Zap Cannon
@@ -29777,7 +29777,7 @@ Take Down
 Thief
 Tickle
 Toxic
-visegrip
+Vice Grip
 Water Gun
 Water Pulse
 Whirlpool
@@ -35878,7 +35878,7 @@ Thunder Punch
 Tickle
 Torment
 Toxic
-visegrip
+Vice Grip
 
 	Medicham:
 Acupressure
@@ -45390,7 +45390,7 @@ Thrash
 Throat Chop
 Toxic
 Vise Grip
-visegrip
+Vice Grip
 Vital Throw
 X-Scissor
 
@@ -48860,7 +48860,7 @@ Substitute
 Thrash
 Thunder Fang
 Twister
-visegrip
+Vice Grip
 
 	Regieleki:
 Acrobatics
@@ -64983,7 +64983,7 @@ Thunder
 Thunder Wave
 Thunderbolt
 Toxic
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 X-Scissor
@@ -65030,7 +65030,7 @@ Thunder
 Thunder Wave
 Thunderbolt
 Toxic
-visegrip
+Vice Grip
 Volt Switch
 Wild Charge
 X-Scissor
